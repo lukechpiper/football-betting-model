@@ -4,7 +4,7 @@ This project implements a probabilistic model to predict football match outcomes
 
 ## Features
 
-- **Poisson-based model** with time-decay weighting for team attack/defense strengths and home advantage.
+- **Poisson-based model** with time-decay weighting for team attack/defense strengths and home advantage (See Dixon-Coles model).
 - **Probabilistic predictions** for home/draw/away outcomes.
 - **Backtesting framework** to identify value bets and evaluate betting strategy performance (ROI, total bets).
 - **Calibration metrics** including log-loss, Brier scores, and calibration plots.
